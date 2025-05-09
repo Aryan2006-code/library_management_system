@@ -34,49 +34,49 @@ A simple yet functional **Library Management System** built using **C++**, desig
 ## 📌 Sample Usage
 ### 📥 Add Book
 
--------Add book-------
-Enter book id:
-101
-Enter book name:
-AtomicHabits
-Enter book author:
-JamesClear
--------------------
-Book added successfully!!
+- -------Add book-------
+- Enter book id:
+- 101
+- Enter book name:
+- AtomicHabits
+- Enter book author:
+- JamesClear
+- -------------------
+- Book added successfully!!
 
 ### 📋 Show All Books
 
--------Show all books-------
-id      name        author
-
-101     AtomicHabits    JamesClear
--------------------
-All books shown successfully!!
+- -------Show all books-------
+- id      name        author
+- 
+- 101     AtomicHabits    JamesClear
+- -------------------
+- All books shown successfully!!
 
 ### 🔍 Extract Book
 
--------Extract book-------
-Enter book name:
-AtomicHabits
--------------------
-Book ID: 101
-Book Name: AtomicHabits
-Book Author: JamesClear
--------------------
+- -------Extract book-------
+- Enter book name:
+- AtomicHabits
+- -------------------
+- Book ID: 101
+- Book Name: AtomicHabits
+- Book Author: JamesClear
+- -------------------
 
 ### ❌ Exit
 
-Application closed.
+- Application closed.
 
 ---
 
 ## 🔮 Future Scope
 
--Add feature to delete or update books
+- Add feature to delete or update books
 
--Use structured database (e.g., SQLite) instead of text files
+- Use structured database (e.g., SQLite) instead of text files
 
--Extend to GUI or Web frontend using frameworks (e.g., Crow, Wt)
+- Extend to GUI or Web frontend using frameworks (e.g., Crow, Wt)
 
  ---
 
@@ -94,8 +94,8 @@ Application closed.
 
 ## 🌟 Feedback & Contributions
 
-If you find this project helpful, give it a ⭐.  
-Pull requests and improvements are welcome!
+- If you find this project helpful, give it a ⭐.  
+- Pull requests and improvements are welcome!
 
 ---
 
@@ -105,11 +105,9 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aryankumar2006
 
 ## 📜 License
 This project is open-source and free to use for educational purposes.
-
-
 ---
 
-Let me know when you're ready for the LinkedIn caption or if you'd like help uploading this to GitHub!
+
 
 
 
