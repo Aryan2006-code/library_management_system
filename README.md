@@ -23,10 +23,10 @@ A simple yet functional **Library Management System** built using **C++**, desig
 
 ## 🗂️ File Structure
 
--📁 library_management_system/
--├── login.cpp # Main source file
--├── library.txt # Data storage file
--└── README.md # Project documentation
+- 📁 library_management_system/
+- ├── login.cpp # Main source file
+- ├── library.txt # Data storage file
+- └── README.md # Project documentation
 
 
 ---
