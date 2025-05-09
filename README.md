@@ -41,7 +41,6 @@ A simple yet functional **Library Management System** built using **C++**, desig
 - AtomicHabits
 - Enter book author:
 - JamesClear
-- 
 - Book added successfully!!
 
 ### 📋 Show All Books
@@ -50,7 +49,6 @@ A simple yet functional **Library Management System** built using **C++**, desig
 - id      name        author
 - 
 - 101     AtomicHabits    JamesClear
-- 
 - All books shown successfully!!
 
 ### 🔍 Extract Book
@@ -58,7 +56,7 @@ A simple yet functional **Library Management System** built using **C++**, desig
 - -------Extract book-------
 - Enter book name:
 - AtomicHabits
-- 
+- ________________
 - Book ID: 101
 - Book Name: AtomicHabits
 - Book Author: JamesClear
